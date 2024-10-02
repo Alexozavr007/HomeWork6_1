@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=localhost;Database=Homework612;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DbModels
